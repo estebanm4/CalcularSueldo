@@ -31,7 +31,7 @@ public class Ejercicios {
         } else {
             totalSalario = 40 * valorU + 8 * (valorU * 2) + ((horasT - 48) * (valorU * 3));
         }
-
+         //HOLA 
         return totalSalario;
         //System.out.println(nombre + " debe recibir " + totalSalario + " pesos, por sus " + horasT + " trabajadas en una semana");
     }
